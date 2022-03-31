@@ -102,7 +102,7 @@ var productsContent = `<div class="hero">
             <img src="images/coffees/americano.png" alt="">
         </div>
         <div class="prod-descript">
-            <h4>Big City</h4>
+            <h4>Drink</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas deleniti nisi aliquid
                 dignissimos labore eius ab ratione veritatis fuga hic sed rem dolores, nulla quis?</p>
 
@@ -113,7 +113,7 @@ var productsContent = `<div class="hero">
             <img src="images/coffees/breve.png" alt="">
         </div>
         <div class="prod-descript">
-            <h4>Big City</h4>
+            <h4>Drink</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas deleniti nisi aliquid
                 dignissimos labore eius ab ratione veritatis fuga hic sed rem dolores, nulla quis?</p>
 
@@ -124,7 +124,7 @@ var productsContent = `<div class="hero">
             <img src="images/coffees/cappucino.png" alt="">
         </div>
         <div class="prod-descript">
-            <h4>Big City</h4>
+            <h4>Drink</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas deleniti nisi aliquid
                 dignissimos labore eius ab ratione veritatis fuga hic sed rem dolores, nulla quis?</p>
 
@@ -135,7 +135,7 @@ var productsContent = `<div class="hero">
             <img src="images/coffees/espresso.png" alt="">
         </div>
         <div class="prod-descript">
-            <h4>Big City</h4>
+            <h4>Drink</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas deleniti nisi aliquid
                 dignissimos labore eius ab ratione veritatis fuga hic sed rem dolores, nulla quis?</p>
 
@@ -146,7 +146,7 @@ var productsContent = `<div class="hero">
             <img src="images/coffees/espressomacchiato.png" alt="">
         </div>
         <div class="prod-descript">
-            <h4>Big City</h4>
+            <h4>Drink</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas deleniti nisi aliquid
                 dignissimos labore eius ab ratione veritatis fuga hic sed rem dolores, nulla quis?</p>
 
