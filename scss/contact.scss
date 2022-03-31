@@ -1,0 +1,42 @@
+.split-screen{
+    width:70%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding-top:50px;
+
+    .contact-methods{
+        margin-top:-150px;
+        background-color: lightgoldenrodyellow;
+        border-radius: 50%;
+        width:450px;
+        height:300px;
+        padding-top:90px;
+        text-align: center;
+    }
+
+    .location{
+        .address{
+            padding-top:20px;
+            text-align:center;
+        }
+    }
+}
+
+.job-app{
+    width:70%;
+    margin: 0 auto;
+    text-align:center;
+    padding-top:100px;
+    padding-bottom:100px;
+    a{
+        background-color: lightgoldenrodyellow;
+        border-radius: 50%;
+        text-decoration: none;
+        font-size:25px;
+        font-weight:bold;
+        padding:10px;
+        margin-top:50px;
+    }
+}

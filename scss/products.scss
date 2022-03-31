@@ -1,0 +1,42 @@
+.content{
+    
+    padding:50px;
+    font-family: 'Architects Daughter', cursive;
+
+    .products{
+
+        width:80%;
+        //background-color:lightgoldenrodyellow;
+        min-height:50px;
+        margin: 0 auto;
+        display:flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        .product{
+            display:flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            background-color: lightgoldenrodyellow;
+            .prod-image{
+                height:150px;
+                width:150px;
+                padding-top:50px;
+                padding-left:10px;
+                img{
+                    width:150px;
+                    height:150px;
+                    
+                }
+            }
+
+            .prod-descript{
+                width:200px;
+                padding:15px;
+                padding-left:20px;
+            }
+        }
+    }
+
+
+}
